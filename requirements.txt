@@ -1,0 +1,8 @@
+sqlite3
+datetime
+streamlit
+pandas
+os
+edge-tts
+gtts
+gTTS
